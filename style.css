@@ -1,0 +1,36 @@
+#heading-one{
+    font-size: 40px; 
+}
+#sbcolor{
+    font-size: 30px;
+    color: green;
+}
+#imgsrc1{
+    width: 200px; 
+    height: 200px;  
+}
+.container{
+    background-color: whitesmoke;
+    margin: 20px 100px;
+    padding-left: 10px;
+    text-align: left;
+    display: flex;
+}
+
+#pid-one{
+    font-style: italic;
+    font-size: 20px;
+    
+}
+#bid-one{
+    text-decoration: none;
+    width: 80px;
+    height: 40px;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 20px;
+    background-color: pink;
+    border-radius: 10px;
+    margin: 20px 100px;
+    
+}
